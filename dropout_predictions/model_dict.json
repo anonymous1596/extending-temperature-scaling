@@ -1,0 +1,22 @@
+{
+  "xception": {
+    "file_name": "xception",
+    "function_name": "xception"
+  },
+  "resnet152": {
+    "file_name": "resnet",
+    "function_name": "resnet152"
+  },
+  "densenet161": {
+    "file_name": "densenet",
+    "function_name": "densenet161"
+  },
+  "seresnet152": {
+    "file_name": "senet",
+    "function_name": "seresnet152"
+  },
+  "inceptionresnetv2": {
+    "file_name": "inceptionv4",
+    "function_name": "inception_resnet_v2"
+  }
+}
